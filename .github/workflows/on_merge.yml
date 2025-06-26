@@ -24,3 +24,4 @@ jobs:
           pip install boto3 --upgrade
           cd caip_03_02
           python run_bedrock.py
+          
